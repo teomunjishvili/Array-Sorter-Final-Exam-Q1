@@ -1,4 +1,7 @@
-/* Create 10 element array of integers. Use cin method to enter an elements of the array. Pass the 10 element array to the function. In the function, code should find and print out the smallest and largest integer numbers and their indecies in array. Array also should be sorted in descending order. Use pointers to pass the array to the function.*/
+/* Create 10 element array of integers. Use cin method to enter an elements of the array. 
+   Pass the 10 element array to the function. 
+   In the function, code should find and print out the smallest and largest integer numbers and their indecies in array. 
+   Array also should be sorted in descending order. Use pointers to pass the array to the function.*/
 
 #include <iostream>
 #include <algorithm>
